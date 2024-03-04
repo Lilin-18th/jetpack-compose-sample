@@ -1,2 +1,2 @@
 # Android Studio Project Template
-doridkaigi2023ベース
+doridkaigi2023を参考に作成
